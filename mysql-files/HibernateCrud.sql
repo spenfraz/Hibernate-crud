@@ -1,4 +1,3 @@
-<!--DROP DATABASE IF EXISTS mydb2;create DATABASE mydb2; -->
 use mydb;
 
 DROP TABLE IF EXISTS ingredients;
