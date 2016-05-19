@@ -1,2 +1,2 @@
 # hibernate-crud
-Hibernate-ORM-MySQL
+Java-Hibernate-ORM-MySQL
